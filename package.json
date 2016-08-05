@@ -21,6 +21,7 @@
   "homepage": "https://github.com/LeeHyungGeun/learn_node_server#readme",
   "dependencies": {
     "http-proxy": "^1.14.0",
-    "http-server": "^0.9.0"
+    "http-server": "^0.9.0",
+    "request": "^2.74.0"
   }
 }

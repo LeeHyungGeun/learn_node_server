@@ -23,8 +23,3 @@ function createServer (req, res) {
         }
     );
 }
-
-// function isURL () {
-//     var regexp = new RegExp('^(http[s]?:\\/\\/(www\\.)?|ftp:\\/\\/(www\\.)?|www\\.){1}([0-9A-Za-z-\\.@:%_\+~#=]+)+((\\.[a-zA-Z]{2,3})+)(/(.)*)?(\\?(.)*)?', 'ig');
-//     regexp.match('htts://www.naver.com/ajslkdfjaklsjfaksf;jhttp://www.naver.com')
-// }
