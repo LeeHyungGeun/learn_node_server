@@ -70,7 +70,7 @@ function createServer (req, res) {
 ```
 
 ### 3. HTML Body Scrawler Server (demo: 3. http_request_html.js)
-'''javascript
+```javascript
 var http = require('http'),
     request = require('request'),   // import request module
     url = require('url'),
@@ -97,4 +97,4 @@ function createServer (req, res) {
     );
 }
 // Reference: request https://github.com/request/request
-'''
+```
